@@ -1,4 +1,4 @@
-# WinOps-ADK
+# Windows ADK
 Windows Assessment and Deployment Kit https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
 
 
